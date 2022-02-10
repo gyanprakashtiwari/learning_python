@@ -19,3 +19,5 @@ myDict.update({"ehh":"hoo"})
 print(myDict.get("gyan")) # gives null if key is not present in dict
 # myDict["golu"] --> this give error but using .get doesn't give error
 
+# hey it it it among us
+
